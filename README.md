@@ -56,6 +56,7 @@
 ![Microsoft Visio](https://img.shields.io/badge/Microsoft_Visio-3955A3?logo=microsoftvisio&logoColor=white&style=for-the-badge)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?logo=microsoftpowerpoint&logoColor=white&style=for-the-badge)
 
+<!--
 ---
 
 ## 📊 Statistics
@@ -63,6 +64,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmniAshley&layout=compact&theme=radical&hide=javascript)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=OmniAshley&theme=radical&hide_border=true)
+--->
 
 ---
 
